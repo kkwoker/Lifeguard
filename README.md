@@ -1,7 +1,7 @@
 # Lifeguard
 Lifeguard allows you to revive threads that have exited. Threads monitoring for Ruby!
 
-```
+```ruby
 
 Example of usage: 
 l = Lifeguard.new(
